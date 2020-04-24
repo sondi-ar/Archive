@@ -71,7 +71,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 ## Pornography & Art
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive.
 
-<img src="Documentation/img/Art1.png" width="30%"> <img src="Documentation/img/Art2.png" width="40%">
+<img src="Documentation/img/Art1.png" width="30%"> <img src="Documentation/img/Art2.png" width="34%">
 
 Andrea Fraser, Untitled (2003)
 
