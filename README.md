@@ -26,12 +26,13 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 | **Selected Object** | Colt und Köcher
 | **Medium** | Super 8mm film, 6min
 | **Date** | 1970
-|<img src="Documentation/img/Object.png" width="50%">| This is the box of the 8mm film
+|<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
 # Research
 
 <details>
   <summary>Reading List</summary>
+  <details>
     <summary>Archive Fever</summary>
 Derrida - http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf
 
@@ -62,4 +63,3 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
   - Analog erotica brings up questions of copyright infringement and privacy rights
   - Providing context and demonstrating the cultural and historical value of the collections” is key for pornography
   - Sex and archives, by convention, seem like opposites: a private experience versus a public institution
-  <details>
