@@ -12,8 +12,10 @@
     3. [Pornography & Activism](Pornography-and-Activism)
     4. [Pornography in the Public sphere](#Pornography-in-the-Public-Sphere)
 3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    1. [Reconstructing](Reconstructing-the-Film)
+    2. [Recolouring](#Recolouring)
+    3. [Art & Pornography](#Art-and-Pornography)
+    4. [Activism & Pornography](#Activism-and-Pornography)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -128,12 +130,15 @@ A showcase and celebrate of the colourful diversity of porn. The goal of this fe
 # Transcoding
 By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.<br/>
 
-## Reconstructing the movie
+## Reconstructing the Film
 ### Description
 Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. All i have is a footage of me going trough parts of the video frame by frame.
-Without any access to the archive, how can I utilise the footage that I have and make some reconstruction as a way to understand and see the material in its "original form" and to redistribute it to the public.
+Without any access to the archive, how can I utilise the footage that I have and make some reconstruction.
 
 <img src="Documentation/img/reconstruct.png" width="33%"> <img src="Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%">
+
+### Aims
+The aim of the reconstruction is to understand and see the material in its "original form" and to redistribute it to the public.
 
 ### Methods
 - Turn a sequence into individual frames
@@ -151,9 +156,12 @@ The tool used for the reconstruction is Adobe PremierePro
 
 ## Recolouring
 ### Description
-From the informations I have found on the movie and through the cover box, I know that the original film was in colour, but through the effect of time the colours faded. I want to find a way to recolour the film either multiple frames or a whole sequences. This transcoding is an attempt to give back the "original" look to the film.
+From the informations I have found on the movie and through the cover box, I know that the original film was in colour, but through the effect of time the colours faded. I want to find a way to recolour the film either multiple frames or a whole sequences.
 
 <img src="Documentation/img/recolour.png" width="33%"> <img src="Documentation/img/recolour1.jpg" width="33%"> <img src="Documentation/img/recolour2.jpg" width="33%">
+
+### Aims
+This transcoding is another attempt to give back the "original" look to the film.
 
 ### Methods
 Using only photoshop and solid colours as overlay layers, i tested out colours and ways of recolouring
@@ -162,3 +170,45 @@ Using only photoshop and solid colours as overlay layers, i tested out colours a
 
 ### Results
 <img src="Documentation/img/1.png" width="33%"> <img src="Documentation/img/2.png" width="33%"> <img src="Documentation/img/3.png" width="33%"> <img src="Documentation/img/4.png" width="33%"> <img src="Documentation/img/5.png" width="33%"> <img src="Documentation/img/6.png" width="33%"> <img src="Documentation/img/7.png" width="33%">
+
+## Art and Pornography
+### Description
+
+### Aims
+
+### Methods
+
+### Tools
+
+### Results
+
+
+## Art and Activism
+### Description
+
+### Aims
+
+### Methods
+
+### Tools
+
+### Results
+
+# Reflection
+You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
+
+# Outcomes
+This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+
+### Outcome Links
+Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
+
+This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+
+# Conclusion
+You might have a nice conclusive observation to share at the end :)
+
+## Bibliography
+Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
+
+<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
