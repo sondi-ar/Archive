@@ -6,10 +6,10 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research on the Value of Pornography)
-    1. [Pornography & Art](#Pornography & Art)
-    2. [Pornography & Activism](Pornography & Activism)
-    3. [Pornography in the Public sphere](#Pornography in the Public sphere)
+2. [Research](#Research-on-the-Value-of-Pornography)
+    1. [Pornography & Art](#Pornography-&-Art)
+    2. [Pornography & Activism](Pornography-&-Activism)
+    3. [Pornography in the Public sphere](#Pornography-in-the-Public-Sphere)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -72,7 +72,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 </details>
 
 ## Pornography & Art
-###Andrea Frase "Untitled" & Skin, 2009
+### Andrea Frase "Untitled" & Skin, 2009
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive. [1]
 
 <img src="Documentation/img/Art1.png" width="30%">   <img src="Documentation/img/Art2.png" width="31.8%">
@@ -102,16 +102,16 @@ Can Activism give new relevance to porn?
 How can Pornography be used as a story telling device?
 ```
 
-## Pornography in the Public sphere
+## Pornography in the Public Sphere
 
 ### Eye Museum
 <img src="Documentation/img/public.png" width="40%"> <br/>
 An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
 
 ### La Fête du Slip
-<img src="Documentation/img/public2.png" width="50%"> <br/>
+<img src="Documentation/img/public2.png" width="45%"> <br/>
 La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
 
 ### Porn Film Festival Vienna
-<img src="Documentation/img/public3.png" width="50%"> <br/>
+<img src="Documentation/img/public3.png" width="40%"> <br/>
 A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
