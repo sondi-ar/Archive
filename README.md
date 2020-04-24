@@ -75,3 +75,9 @@ we speak of consuming pornography and of appreciating art which indicates that t
 
 Andrea Fraser, Untitled (2003): The artist is seen having sex with an unidentified American collector. <br/>
 Skin, 2009: Two figures in nude bodysuits start making out, cutting away parts of their costumes as they grow more aroused. “Art meets Porn” -shown in Museum
+
+```
+How can we define the line between art & pornography?
+Can the label of art add value to pornography?
+Can the label of art help transgress the private space and bring pornography into the public sphere?
+```
