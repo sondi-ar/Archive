@@ -85,7 +85,7 @@ Can the label of "art" help transgress the private space and bring pornography i
 
 ## Pornography & Activism
 Pleasure and freedom as a form of protest against dominant power structures.
-The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2]
+The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/>
 
 ###Fuck For Forest
 <img src="Documentation/img/activism.png" width="50%"> <br/>
