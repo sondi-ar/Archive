@@ -73,6 +73,5 @@ we speak of consuming pornography and of appreciating art which indicates that t
 
 <img src="Documentation/img/Art1.png" width="30%"> <img src="Documentation/img/Art2.png" width="31.7%">
 
-Andrea Fraser, Untitled (2003): The artist is seen having sex with an unidentified American collector.
-
+Andrea Fraser, Untitled (2003): The artist is seen having sex with an unidentified American collector. <br/>
 Skin, 2009: Two figures in nude bodysuits start making out, cutting away parts of their costumes as they grow more aroused. “Art meets Porn” -shown in Museum
