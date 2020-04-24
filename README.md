@@ -75,7 +75,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 
 <img src="Documentation/img/video.png" width="30%">       <img src="Documentation/img/video.jpg" width="31.8%">       <img src="Documentation/img/video2.png" width="25%">
 
-The mechanism of the projector at the archive was unfortunately broken. It was not possible to watch the movie frame by frame.
+The archive had 2 projectors available. Unfortunately The mechanism of both projectors were unfortunately broken. It was not possible to watch the movie projected. The only way to watch it was frame by frame.
  <br/> <img src="Documentation/img/video3.png" width="30%">       <img src="Documentation/img/video4.jpg" width="30%">
 
 ## Pornography and Art
