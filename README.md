@@ -29,7 +29,7 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 |<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
 # Research on the Value of Pornography
-is it about adding value or reclaiming its initial value?
+Is it about adding value or reclaiming its initial value?
 
 <details>
   <summary>Reading List</summary>
@@ -86,7 +86,7 @@ Can the label of "art" help transgress the private space and bring pornography i
 Pleasure and freedom as a form of protest against dominant power structures.
 The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2]
 
-<img src="Documentation/img/activism.png" width="30%">
+<img src="Documentation/img/activism.png" width="50%"> <br/>
 >"Porn makes really, really a lot of money, so why not use that money for good?"
 
 Fuck for Forest (FFF) is a non-profit environmental organisation founded in 2004 in Norway by Leona Johansson and Tommy Hol Ellingsen. It funds itself through a website of sexually explicit videos and photographs, charging a membership fee for access. They believe in saving the planet by videotaping themselves having sex. The concept here is that the group sells homemade porn on the internet, using the funds to buy up threatened rainforest land.It is the world's first eco-porn organisation and may be the only porn website specifically created to raise money for a cause.
