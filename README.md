@@ -75,7 +75,8 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 
 <img src="Documentation/img/video.png" width="30%">       <img src="Documentation/img/video.jpg" width="31.8%">       <img src="Documentation/img/video2.png" width="25%">
 
-The mechanism of the projector at the archive was unfortunately broken. And so it was only possible to watch the movie frame by frame.
+The mechanism of the projector at the archive was unfortunately broken. It was only possible to watch the movie frame by frame.
+<img src="Documentation/img/video3.png" width="30%">       <img src="Documentation/img/video4.jpg" width="31.8%">
 
 ## Pornography and Art
 ### Andrea Frase "Untitled" & Skin, 2009
