@@ -15,7 +15,6 @@
     1. [Reconstructing](Reconstructing-the-Film)
     2. [Recolouring](#Recolouring)
     3. [Art & Pornography](#Art-and-Pornography)
-    4. [Activism & Pornography](#Activism-and-Pornography)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
