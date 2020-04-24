@@ -87,7 +87,7 @@ Can the label of "art" help transgress the private space and bring pornography i
 Pleasure and freedom as a form of protest against dominant power structures.
 The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/>
 
-###Fuck For Forest
+### Fuck For Forest
 <img src="Documentation/img/activism.png" width="50%"> <br/>
 >"Porn makes really, really a lot of money, so why not use that money for good?"
 
@@ -99,16 +99,16 @@ Can Activism give new relevance to porn?
 How can Pornography be used as a story telling device?
 ```
 
-##Pornography in the Public sphere
+## Pornography in the Public sphere
 
-###Eye Museum
+### Eye Museum
 <img src="Documentation/img/public.png" width="50%"> <br/>
 An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
 
-###La Fête du Slip
+### La Fête du Slip
 <img src="Documentation/img/public1.png" width="50%"> <br/>
 La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
 
-###Porn Film Festival Vienna
+### Porn Film Festival Vienna
 <img src="Documentation/img/public2.png" width="50%"> <br/>
 A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
