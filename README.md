@@ -32,7 +32,9 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 
 <details>
   <summary>Reading List</summary>
+  "Archive Fever" -Derrida
 (http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf)
+
 > Archiving Is a question of the future [...] of a promise and of a responsibility for tomorrow. If we want to know what this will have meant, we will only know in the times to come.
 
 - There is no beginnings, just traces - To understand this, you must first understand that etc...
