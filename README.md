@@ -70,6 +70,8 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 
 ## Pornography & Art
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive.
-[<img src="Documentation/img/Art1.png" width="70%">]
+
+<img src="Documentation/img/Art1.png" width="50%">
+
 Andrea Fraser, Untitled (2003)
 In Untitled, the artist is seen having sex with an unidentified American collector
