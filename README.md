@@ -6,7 +6,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-on-the-Value-of-Pornography)
+2. [Research](#Research)
     1. [Photo and Video processes](#Photo-and-Video-processes)
     2. [Pornography & Art](#Pornography-and-Art)
     3. [Pornography & Activism](Pornography-and-Activism)
@@ -32,7 +32,7 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 | **Date** | 1970
 |<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
-# Research on the Value of Pornography
+# Research
 <details>
   <summary>Reading List</summary>
 
@@ -76,6 +76,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 <img src="Documentation/img/video.png" width="30%">       <img src="Documentation/img/video.jpg" width="31.8%">       <img src="Documentation/img/video2.png" width="25%">
 
 The archive had 2 projectors available. Unfortunately The mechanism of both projectors were unfortunately broken. It was not possible to watch the movie projected. The only way to watch it was frame by frame.
+ <br/>
  <br/>
  <img src="Documentation/img/video3.png" width="30%">       <img src="Documentation/img/video4.jpg" width="30%">
 
@@ -127,11 +128,12 @@ A showcase and celebrate of the colourful diversity of porn. The goal of this fe
 # Transcoding
 By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.<br/>
 
-<img src="Documentation/img/reconstruct.png" width="30%"> <img src="Documentation/img/reconstruct1.png" width="30%"> <img src="Documentation/img/reconstruct2.png" width="30%">
-
 ## Reconstructing the movie
 ### Description
 Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that.
+
+<img src="Documentation/img/reconstruct.png" width="30%"> <img src="Documentation/img/reconstruct1.png" width="30%"> <img src="Documentation/img/reconstruct2.png" width="30%">
+
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
