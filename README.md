@@ -34,7 +34,7 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
   <summary>Reading List</summary>
   <details>
     <summary>Archive Fever</summary>
-(http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf)
+[Archive Fever by Derrida](http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf)
 
 > Archiving Is a question of the future [...] of a promise and of a responsibility for tomorrow. If we want to know what this will have meant, we will only know in the times to come.
 
@@ -44,4 +44,3 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 - Nothing starts in an archive, everything is halfway through - discontinuity
 - Meaning in both commencement and commandment
 - Archive and public vs private space. Who has the right to enter? How to classify? Who chooses?
-<details>
