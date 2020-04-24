@@ -7,8 +7,8 @@
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research-on-the-Value-of-Pornography)
-    1. [Pornography & Art](#Pornography-&-Art)
-    2. [Pornography & Activism](Pornography-&-Activism)
+    1. [Pornography & Art](#Pornography-and-Art)
+    2. [Pornography & Activism](Pornography-and-Activism)
     3. [Pornography in the Public sphere](#Pornography-in-the-Public-Sphere)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
@@ -32,8 +32,6 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 |<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
 # Research on the Value of Pornography
-Is it about adding value or reclaiming its initial value?
-
 <details>
   <summary>Reading List</summary>
 
@@ -71,7 +69,10 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 </details>
 </details>
 
-## Pornography & Art
+## Photo and Video processes
+8 mm film is a motion picture film format in which the film strip is eight millimeters wide. It exists in two main versions — the original standard 8 mm film, also known as regular 8 mm, and Super 8. Although both standard 8 mm and Super 8 are 8 mm wide, Super 8 has a larger image area because of its smaller and more widely spaced perforations.
+<img src="Documentation/img/video.png" width="30%">   <img src="Documentation/img/video.jpg" width="31.8%">
+## Pornography and Art
 ### Andrea Frase "Untitled" & Skin, 2009
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive. [1]
 
@@ -86,7 +87,7 @@ Can the label of "art" add value to pornography?
 Can the label of "art" help transgress the private space and bring pornography into the public sphere?
 ```
 
-## Pornography & Activism
+## Pornography and Activism
 Pleasure and freedom as a form of protest against dominant power structures.
 The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/>
 
@@ -115,3 +116,22 @@ La Fête du Slip is an annual alternative-porn film festival held in Lausanne, S
 ### Porn Film Festival Vienna
 <img src="Documentation/img/public3.png" width="40%"> <br/>
 A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
+
+# Transcoding
+By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.
+
+## Transcoding No. 1
+### Description
+Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+
+You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+
+### Methods
+Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+
+With some HTML tags you can do simple styling in markdown, for example:
+
+    <width="50%">
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
+Remember to include the url link to jump to the full media, of course!
