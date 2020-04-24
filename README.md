@@ -144,7 +144,7 @@ Without any access to the archive, how can I utilise the footage that I have and
 
 
 ### Tools
-Mention the tools that you used or made (if and when relevant).
+The tool used for the reconstruction is Adobe PremierePro
 
 ### Results
-<img src="Documentation/img/CuK.gif" width="40%">
+<img src="Documentation/img/CuK.gif" width="33%"> <img src="Documentation/img/CuK1.gif" width="33%">
