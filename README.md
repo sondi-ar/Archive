@@ -1,6 +1,6 @@
 [<img src="Documentation/img/Cover.png" width="100%">](#)
 # THE VALUE OF PORN: Processing and preserving pornography
-“There is always a bit of testicle at the bottom of our most sublime ideals” - Diderot      
+> “There is always a bit of testicle at the bottom of our most sublime ideals” - Diderot      
 
 
 ### Table of Contents
@@ -27,3 +27,10 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 | **Medium** | Super 8mm film, 6min
 | **Date** | 1970
 |<img src="Documentation/img/Object.png" width="50%">| This is the box of the 8mm film
+
+# Research
+
+<details>
+  <summary>Reading List</summary>
+
+</details>
