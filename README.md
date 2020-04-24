@@ -82,7 +82,7 @@ The mechanism of the projector at the archive was unfortunately broken. It was o
 ### Andrea Frase "Untitled" & Skin, 2009
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive. [1]
 
-<img src="Documentation/img/Art1.png" width="30%">   <img src="Documentation/img/Art2.png" width="31.8%">
+<img src="Documentation/img/Art1.png" width="100%">   <img src="Documentation/img/Art2.png" width="100%">
 
 Andrea Fraser, Untitled (2003): The artist is seen having sex with an unidentified American collector. <br/>
 Skin, 2009: Two figures in nude bodysuits start making out, cutting away parts of their costumes as they grow more aroused. “Art meets Porn” -shown in Museum
