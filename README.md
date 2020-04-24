@@ -28,7 +28,8 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 | **Date** | 1970
 |<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
-# Research
+# Research on the Value of Pornography
+is it about adding value or reclaiming its initial value?
 
 <details>
   <summary>Reading List</summary>
@@ -66,3 +67,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
   - Sex and archives, by convention, seem like opposites: a private experience versus a public institution
 </details>
 </details>
+
+## Pornography & Art
+we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive.
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ac64bf9-4787-499b-bbb6-5585b7bcea2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200424%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200424T135737Z&X-Amz-Expires=86400&X-Amz-Signature=32afc4b4e37c90c7e3b3509ed282c541675154f6e17285a26bb0b60ca3a65b83&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22
