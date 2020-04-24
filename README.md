@@ -76,7 +76,8 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 <img src="Documentation/img/video.png" width="30%">       <img src="Documentation/img/video.jpg" width="31.8%">       <img src="Documentation/img/video2.png" width="25%">
 
 The archive had 2 projectors available. Unfortunately The mechanism of both projectors were unfortunately broken. It was not possible to watch the movie projected. The only way to watch it was frame by frame.
- <br/> <img src="Documentation/img/video3.png" width="30%">       <img src="Documentation/img/video4.jpg" width="30%">
+ <br/>
+ <img src="Documentation/img/video3.png" width="30%">       <img src="Documentation/img/video4.jpg" width="30%">
 
 ## Pornography and Art
 ### Andrea Frase "Untitled" & Skin, 2009
@@ -124,13 +125,13 @@ La Fête du Slip is an annual alternative-porn film festival held in Lausanne, S
 A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
 
 # Transcoding
-By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.
+By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.<br/>
 
-## Transcoding No. 1
+<img src="Documentation/img/reconstruct.png" width="30%"> <img src="Documentation/img/reconstruct1.png" width="30%"> <img src="Documentation/img/reconstruct2.png" width="30%">
+
+## Reconstructing the movie
 ### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that.
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
