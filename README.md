@@ -6,7 +6,10 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [Research](#Research on the Value of Pornography)
+    1. [Pornography & Art](#Pornography & Art)
+    2. [Pornography & Activism](Pornography & Activism)
+    3. [Pornography in the Public sphere](#Pornography in the Public sphere)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
