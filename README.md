@@ -32,5 +32,12 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 
 <details>
   <summary>Reading List</summary>
+(http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf)
+> Archiving Is a question of the future [...] of a promise and of a responsibility for tomorrow. If we want to know what this will have meant, we will only know in the times to come.
 
-</details>
+- There is no beginnings, just traces - To understand this, you must first understand that etc...
+- The desire to understand moments of inception (the establishment or starting point of an institution or activity)
+- Beginnings and origins, which we think might be some kind of truth - but they leaves spaces to which we/historian makes their own mark
+- Nothing starts in an archive, everything is halfway through - discontinuity
+- Meaning in both commencement and commandment
+- Archive and public vs private space. Who has the right to enter? How to classify? Who chooses?
