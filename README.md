@@ -130,10 +130,9 @@ By creating different systems of transcoding, I'm hoping that each way of transc
 
 ## Reconstructing the movie
 ### Description
-Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that.
+Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. Without any access anymore to the archive, how can I utilise the footage that I have and make some reconstruction?
 
-<img src="Documentation/img/reconstruct.png" width="30%"> <img src="Documentation/img/reconstruct1.png" width="30%"> <img src="Documentation/img/reconstruct2.png" width="30%">
-
+<img src="Documentation/img/reconstruct.png" width="30%"> <img src="Documentation/img/reconstruct1.png" width="30%"> <img src="Documentation/img/video5.png" width="30%">
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
