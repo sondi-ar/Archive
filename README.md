@@ -32,6 +32,7 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 
 <details>
   <summary>Reading List</summary>
+  <details>
     <summary>Archive Fever</summary>
 Derrida - http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf
 
@@ -43,13 +44,17 @@ Derrida - http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf
 - Nothing starts in an archive, everything is halfway through - discontinuity
 - Meaning in both commencement and commandment
 - Archive and public vs private space. Who has the right to enter? How to classify? Who chooses?
+</details>
 
+<details>
   <summary>Beyond Gratification: The benefits of pornography and the  demedicalization of female sexuality </summary>
 Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1171&context=tma
 - An on- going debate among feminists regarding the value of pornography and whether it should be protected under the First Amendment
 - Pornography is an important type of speech because it plays a vital role in the communication of ideas.
 - pornography can be used as a tool to educate women and empower them
+</details>
 
+<details>
   <summary>Sex in The Archive:</summary>
   GVGK Tang - https://americanarchivist.org/doi/pdf/10.17723/0360-9081-80.2.439
 
@@ -60,3 +65,5 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
   - Analog erotica brings up questions of copyright infringement and privacy rights
   - Providing context and demonstrating the cultural and historical value of the collections” is key for pornography
   - Sex and archives, by convention, seem like opposites: a private experience versus a public institution
+</details>
+</details>
