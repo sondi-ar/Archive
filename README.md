@@ -1,3 +1,2 @@
-# Archival Resilience 
-
-[<img src="Macintosh HD⁩/Users⁩/⁨sondi⁩/⁨Documents⁩/⁨recolour⁩" width="100%">](#)
+[<img src="Documentation/img/Cover.png" width="100%">](#)
+# <TITLE HERE> Example README.md Outline
