@@ -131,7 +131,7 @@ By creating different systems of transcoding, I'm hoping that each way of transc
 ## Reconstructing the movie
 ### Description
 Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. All i have is a footage of me going trough parts of the video frame by frame.
-Without any access to the archive, how can I utilise the footage that I have and make some reconstruction?
+Without any access to the archive, how can I utilise the footage that I have and make some reconstruction as a way to understand and see the material in its "original form" and to redistribute it to the public.
 
 <img src="Documentation/img/reconstruct.png" width="33%"> <img src="Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%">
 
@@ -148,3 +148,17 @@ The tool used for the reconstruction is Adobe PremierePro
 
 ### Results
 <img src="Documentation/img/CuK.gif" width="33%"> <img src="Documentation/img/CuK1.gif" width="33%"> <img src="Documentation/img/CuK2.gif" width="33%"> <img src="Documentation/img/CuK3.gif" width="33%"> <img src="Documentation/img/CuK4.gif" width="33%">
+
+## Recolouring
+### Description
+From the informations I have found on the movie and through the cover box, I know that the original film was in colour, but through the effect of time the colours faded. I want to find a way to recolour the film either multiple frames or a whole sequences. This transcoding is an attempt to give back the "original" look to the film.
+
+<img src="Documentation/img/recolour.png" width="33%"> <img src="Documentation/img/recolour1.jpg" width="33%"> <img src="Documentation/img/recolour2.jpg" width="33%">
+
+### Methods
+Using only photoshop and solid colours as overlay layers, i tested out colours and ways of recolouring
+
+<img src="Documentation/img/retest.png" width="33%"> <img src="Documentation/img/retest1.png" width="33%"> <img src="Documentation/img/retest2.png" width="33%">
+
+### Results
+<img src="Documentation/img/1.png" width="33%"> <img src="Documentation/img/2.png" width="33%"> <img src="Documentation/img/3.png" width="33%"> <img src="Documentation/img/4.png" width="33%"> <img src="Documentation/img/5.png" width="33%"> <img src="Documentation/img/6.png" width="33%"> <img src="Documentation/img/7.png" width="33%">
