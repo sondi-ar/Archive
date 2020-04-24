@@ -137,7 +137,7 @@ Without any access to the archive, how can I utilise the footage that I have and
 
 <img src="Documentation/img/reconstruct.png" width="33%"> <img src="Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%">
 
-### Aims
+### Aim
 The aim of the reconstruction is to understand and see the material in its "original form" and to redistribute it to the public.
 
 ### Methods
@@ -160,7 +160,7 @@ From the informations I have found on the movie and through the cover box, I kno
 
 <img src="Documentation/img/recolour.png" width="33%"> <img src="Documentation/img/recolour1.jpg" width="33%"> <img src="Documentation/img/recolour2.jpg" width="33%">
 
-### Aims
+### Aim
 This transcoding is another attempt to give back the "original" look to the film.
 
 ### Methods
@@ -174,36 +174,34 @@ Using only photoshop and solid colours as overlay layers, i tested out colours a
 ## Art and Pornography
 ### Description
 
-### Aims
+### Aim
+Give it new value, new relevance, transgress the private sphere
 
 ### Methods
-
+Artistic Renditions
 ### Tools
 
 ### Results
 
-
-## Art and Activism
-### Description
-
-### Aims
-
-### Methods
-
-### Tools
-
-### Results
 
 # Reflection
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+Website -
+How does it all come together?
+Porn access on the internet is cheap & quick vs Festival as experience in real time & engaging with audience
+
+- Promotional poster  + Timetable
+- Time Based website → 1 Day/Afternoon
+1. Online exhibition, showing of all the work (Art + Recolour photos)
+2. "screening room" of movie sequences → time schedule, every hour loop
+3. Talk panel  → Porn & Activism → Time based activation of link and playing of video or sound piece
+
+→ Creating a virtual space in times of corona, get away with copyright issue by making it a one time event (screening), festival as experience
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
-
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+website Link
 
 # Conclusion
 You might have a nice conclusive observation to share at the end :)
