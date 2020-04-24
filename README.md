@@ -74,4 +74,5 @@ we speak of consuming pornography and of appreciating art which indicates that t
 <img src="Documentation/img/Art1.png" width="30%">
 
 Andrea Fraser, Untitled (2003)
+
 In Untitled, the artist is seen having sex with an unidentified American collector
