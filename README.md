@@ -179,10 +179,10 @@ The label of Art linked to the label of pornography can help to transgress the p
 The aim is to question the line between art and pornography. As such it's an attempt at questioning the line between what we think is acceptable to be shown in public and what we deem too vulgar. By creating artistic renditions of the film I'm questioning its value and how different labels and mediums effect our perception of pornographic content
 
 ### Methods
-Artistic Renditions of the film using the residual of the first transcoding tool on the reconstruction of the film. The first transcoding tool has left me with a lot of images of the film which I use to create photographic stills. I'll also be using a 3 program to create a 3D rendition of a scene.
+Artistic Renditions of the film using the residual of the first transcoding tool on the reconstruction of the film. The first transcoding tool has left me with a lot of images of the film which I use to create photographic stills. These stills can also be used to create embroidery images. I'll also be using a 3 program to create a 3D rendition of a scene.
 
 ### Tools
-Photoshop and Blender
+Photoshop, Blender and hand embroidery tools
 
 ### Results
 
