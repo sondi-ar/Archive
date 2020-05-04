@@ -203,6 +203,12 @@ Porn access on the internet is cheap & quick vs Festival as experience in real t
 
 → Creating a virtual space in times of corona, get away with copyright issue by making it a one time event (screening), make a time based website to create the festival experience
 
+### Methods
+Online exhibition - identity look and how to create a virtual exhibition space
+
+<img src="Documentation/img/expo.png" width="33%"> <img src="Documentation/img/expo2.png" width="33%">
+
+
 ### Outcome Links
 website Link
 
