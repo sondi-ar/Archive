@@ -172,13 +172,15 @@ Using only photoshop and solid colours as overlay layers, i tested out colours a
 
 ## Art and Pornography
 ### Description
-
+The label of Art linked to the label of pornography can help to transgress the private sphere and bring pornography into the public sphere. Artistic renditions of the film can become and excuse to create an exhibition around a pornographic film.
 ### Aim
-Give it new value, new relevance, transgress the private sphere
+The aim is to question the line between art and pornography. As such it's an attempt at questioning the line between what we think is acceptable to be shown in public and what we deem too vulgar. By creating artistic renditions of the film I'm questioning its value and how different labels and mediums effect our perception of pornographic content
 
 ### Methods
-Artistic Renditions
+Artistic Renditions of the film using the residual of the first transcoding tool on the reconstruction of the film. The first transcoding tool has left me with a lot of images of the film which I use to create photographic stills. I'll also be using a 3 program to create a 3D rendition of a scene.
+
 ### Tools
+Photoshop and Blender
 
 ### Results
 
@@ -191,13 +193,13 @@ Website -
 How does it all come together?
 Porn access on the internet is cheap & quick vs Festival as experience in real time & engaging with audience
 
-- Promotional poster  + Timetable
-- Time Based website → 1 Day/Afternoon
+- Promotional poster
+- Time Based website → 1 weekend (15-18)
 1. Online exhibition, showing of all the work (Art + Recolour photos)
 2. "screening room" of movie sequences → time schedule, every hour loop
-3. Talk panel  → Porn & Activism → Time based activation of link and playing of video or sound piece
+3. Talk panel  → Porn & Activism → Time based activation of link and playing of video or sound piece X
 
-→ Creating a virtual space in times of corona, get away with copyright issue by making it a one time event (screening), festival as experience
+→ Creating a virtual space in times of corona, get away with copyright issue by making it a one time event (screening), make a time based website to create the festival experience
 
 ### Outcome Links
 website Link
@@ -206,6 +208,5 @@ website Link
 You might have a nice conclusive observation to share at the end :)
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
