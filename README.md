@@ -153,6 +153,8 @@ The tool used for the reconstruction is Adobe PremierePro
 ### Results
 <img src="Documentation/img/CuK.gif" width="33%"> <img src="Documentation/img/CuK1.gif" width="33%"> <img src="Documentation/img/CuK2.gif" width="33%"> <img src="Documentation/img/CuK3.gif" width="33%"> <img src="Documentation/img/CuK4.gif" width="33%">
 
+-full video link to follow
+
 ## Recolouring
 ### Description
 From the informations I have found on the movie and through the cover box, I know that the original film was in colour, but through the effect of time the colours faded. I want to find a way to recolour the film either multiple frames or a whole sequences.
