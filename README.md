@@ -4,7 +4,7 @@
 
 
 ### Table of Contents
-1. [Artefact](#Artefact)
+1. [Artefact](#artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research)
     1. [Photo and Video processes](#Photo-and-Video-processes)
