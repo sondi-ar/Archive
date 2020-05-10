@@ -1,4 +1,4 @@
-[<img src="https://github.com/sondi-ar/Archive/master/Documentation/img/Cover.png" width="100%">](#)
+[<img src="https://github.com/sondi-ar/Archive#/master/Documentation/img/Cover.png" width="100%">](#)
 # THE VALUE OF PORN: Processing and preserving pornography
 > “There is always a bit of testicle at the bottom of our most sublime ideals” - Diderot      
 
