@@ -74,7 +74,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 ## Photo and Video processes
 8 mm film is a motion picture film format in which the film strip is eight millimeters wide. It exists in two main versions — the original standard 8 mm film, also known as regular 8 mm, and Super 8. Although both standard 8 mm and Super 8 are 8 mm wide, Super 8 has a larger image area because of its smaller and more widely spaced perforations.
 
-<img src="https://github.com/sondi-ar/Archive/master/Documentation/img/video.png" width="30%">       <img src="Documentation/img/video.jpg" width="31.8%">       <img src="Documentation/img/video2.png" width="25%">
+<img src="https://github.com/sondi-ar/Archive#/master/Documentation/img/video.png" width="30%">       <img src="Documentation/img/video.jpg" width="31.8%">       <img src="Documentation/img/video2.png" width="25%">
 
 The archive had 2 projectors available. Unfortunately The mechanism of both projectors were unfortunately broken. It was not possible to watch the movie projected. The only way to watch it was frame by frame.
  <br/>
