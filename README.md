@@ -14,7 +14,7 @@
 3. [Transcoding](#transcoding)
     1. [Reconstructing](reconstructing-the-film)
     2. [Recolouring](#recolouring)
-    3. [Art & Pornography](#art-and-pornography)
+    3. [Mapping the Festival](#mapping-the-festival)
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
@@ -172,42 +172,26 @@ Using only photoshop and solid colours as overlay layers, i tested out colours a
 ### Results
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/3.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/4.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/5.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/6.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/7.png" width="33%">
 
-## Art and Pornography
+## Mapping the Festival
 ### Description
-The label of Art linked to the label of pornography can help to transgress the private sphere and bring pornography into the public sphere. Artistic renditions of the film can become and excuse to create an exhibition around a pornographic film.
+This transcoding is a remapping o fthe festival by gathering as much information as I can on the first Wet Dream Film Festival
 ### Aim
-The aim is to question the line between art and pornography. As such it's an attempt at questioning the line between what we think is acceptable to be shown in public and what we deem too vulgar. By creating artistic renditions of the film I'm questioning its value and how different labels and mediums effect our perception of pornographic content
+In constrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim is to give the movie it's "initial" purpose and to redistribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
 
 ### Methods
-Artistic Renditions of the film using the residual of the first transcoding tool on the reconstruction of the film. The first transcoding tool has left me with a lot of images of the film which I use to create photographic stills. These stills can also be used to create embroidery images. I'll also be using a 3 program to create a 3D rendition of a scene.
+ I've gathered a multitue of informations that I'd gathered at the archive and compiled themn into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
 
 ### Tools
-Photoshop, Blender and hand embroidery tools
+Html, css, javascript
 
 ### Results
 
 
 # Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
 
 # Outcomes
-Website -
-How does it all come together?
-Porn access on the internet is cheap & quick vs Festival as experience in real time & engaging with audience
-
-- Promotional poster
-- Time Based website → 1 weekend (15-18)
-1. Online exhibition, showing of all the work (Art + Recolour photos)
-2. "screening room" of movie sequences → time schedule, every hour loop
-3. Talk panel  → Porn & Activism → Time based activation of link and playing of video or sound piece X
-
-→ Creating a virtual space in times of corona, get away with copyright issue by making it a one time event (screening), make a time based website to create the festival experience
-
-### Methods
-Online exhibition - identity look and how to create a virtual exhibition space
-
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/expo.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/expo2.png" width="33%">
-
+I created a website that serves as a  map of The Wet Dream Film Festival from 1970.
+A virtual Archive of the whole schedule of the festival.
 
 ### Outcome Links
 website Link
