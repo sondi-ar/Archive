@@ -179,13 +179,16 @@ This transcoding is a remapping o fthe festival by gathering as much information
 In constrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim is to give the movie it's "initial" purpose and to redistribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
 
 ### Methods
- I've gathered a multitue of informations that I'd gathered at the archive and compiled themn into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
+ I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
+
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="33%">
 
 ### Tools
 Html, css, javascript
 
 ### Results
 
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final3.png" width="33%">
 
 # Reflection
 
