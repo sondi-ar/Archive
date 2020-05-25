@@ -20,10 +20,10 @@
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography)
 
-# Artefact
+## Artefact
 The complete Bill Levy archive: "Suck". Suck was a European pornographic magazine created in the 70s by among others Jim Haynes, William Levy, Heathcote Williams, Germaine Greer, and Jean Shrimpton. The founders of Suck also organised 2 film festivals in Amsterdam titled "The Wet Dream Film Festival (1&2)". 10 of the movies shown during this festival are now stored in the International Institute of Social History in Amsterdam. "Colt und Köcher" is one of them and also the subject of my research.
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **Collection ID** | [ARCH00817](https://search.iisg.amsterdam/Record/ARCH00817#Aa0fc94d859)
@@ -33,7 +33,7 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 | **Date** | 1970
 |<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
-# Research
+## Research
 <details>
   <summary>Reading List</summary>
 
@@ -71,7 +71,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 </details>
 </details>
 
-## Photo and Video processes
+### Photo and Video processes
 8 mm film is a motion picture film format in which the film strip is eight millimeters wide. It exists in two main versions — the original standard 8 mm film, also known as regular 8 mm, and Super 8. Although both standard 8 mm and Super 8 are 8 mm wide, Super 8 has a larger image area because of its smaller and more widely spaced perforations.
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video.png" width="30%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video.jpg" width="31.8%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video2.png" width="25%">
@@ -81,8 +81,8 @@ The archive had 2 projectors available. Unfortunately The mechanism of both proj
  <br/>
  <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video3.png" width="30%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video4.jpg" width="30%">
 
-## Pornography and Art
-### Andrea Frase "Untitled" & Skin, 2009
+### Pornography and Art
+#### Andrea Frase "Untitled" & Skin, 2009
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive. [1]
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="30%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="31.8%">
@@ -96,11 +96,11 @@ Can the label of "art" add value to pornography?
 Can the label of "art" help transgress the private space and bring pornography into the public sphere?
 ```
 
-## Pornography and Activism
+### Pornography and Activism
 Pleasure and freedom as a form of protest against dominant power structures.
 The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/>
 
-### Fuck For Forest
+#### Fuck For Forest
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="50%"> <br/>
 >"Porn makes really, really a lot of money, so why not use that money for good?"
 
@@ -112,34 +112,34 @@ Can Activism give new relevance to porn?
 How can Pornography be used as a story telling device?
 ```
 
-## Pornography in the Public Sphere
+### Pornography in the Public Sphere
 
-### Eye Museum
+#### Eye Museum
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="40%"> <br/>
 An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
 
-### La Fête du Slip
+#### La Fête du Slip
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="45%"> <br/>
 La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
 
-### Porn Film Festival Vienna
+#### Porn Film Festival Vienna
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public3.png" width="40%"> <br/>
 A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
 
-# Transcoding
+## Transcoding
 By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.<br/>
 
-## Reconstructing the Film
-### Description
+### Reconstructing the Film
+#### Description
 Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. All i have is a footage of me going trough parts of the video frame by frame.
 Without any access to the archive, how can I utilise the footage that I have and make some reconstruction.
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%">
 
-### Aim
+#### Aim
 The aim of the reconstruction is to understand and see the material in its "original form" and to redistribute it to the public.
 
-### Methods
+#### Methods
 - Turn a sequence into individual frames
 - Select each frames that show a full frame of the original film
 - Put those selected frames together
@@ -147,63 +147,63 @@ The aim of the reconstruction is to understand and see the material in its "orig
 - Speed up the video to create movement
 
 
-### Tools
+#### Tools
 The tool used for the reconstruction is Adobe PremierePro
 
-### Results
+#### Results
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK1.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK2.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK3.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK4.gif" width="33%">
 
 -full video link to follow
 
-## Recolouring
-### Description
+### Recolouring
+#### Description
 From the informations I have found on the movie and through the cover box, I know that the original film was in colour, but through the effect of time the colours faded. I want to find a way to recolour the film either multiple frames or a whole sequences.
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour1.jpg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour2.jpg" width="33%">
 
-### Aim
+#### Aim
 This transcoding is another attempt to give back the "original" look to the film.
 
-### Methods
+#### Methods
 Using only photoshop and solid colours as overlay layers, i tested out colours and ways of recolouring
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/retest.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/retest1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/retest2.png" width="33%">
 
-### Results
+#### Results
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/3.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/4.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/5.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/6.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/7.png" width="33%">
 
-## Mapping the Festival
-### Description
+### Mapping the Festival
+#### Description
 This transcoding is a remapping o fthe festival by gathering as much information as I can on the first Wet Dream Film Festival
-### Aim
+#### Aim
 In constrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim is to give the movie it's "initial" purpose and to redistribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
 
-### Methods
+#### Methods
  I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="33%">
 
-### Tools
+#### Tools
 Html, css, javascript
 
-### Results
+#### Results
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final3.png" width="33%">
 
-# Reflection
+## Reflection
 
-# Outcomes
+## Outcomes
 I created a website that serves as a  map of The Wet Dream Film Festival from 1970.
 A virtual Archive of the whole schedule of the festival.
 
-### Outcome Links
+#### Outcome Links
 website Link
 
-# Conclusion
+## Conclusion
 You might have a nice conclusive observation to share at the end :)
 
-## Bibliography
+### Bibliography
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
