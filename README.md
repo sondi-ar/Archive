@@ -1,5 +1,5 @@
 [<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Cover.jpg" width="100%">](#)
-# THE VALUE OF PORN: Processing and preserving pornography
+# The Value of Porn: Processing and Preserving Pornography
 > “There is always a bit of testicle at the bottom of our most sublime ideals” - Diderot      
 
 
