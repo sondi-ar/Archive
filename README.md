@@ -178,14 +178,14 @@ Using only photoshop and solid colours as overlay layers, i tested out colours a
 #### Description
 This transcoding is a remapping of the festival and its timeline by a lot of information as I could on the first Wet Dream Film Festival.
 #### Aim
-In contrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim is to give the movie it's "initial" purpose and to redistribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
+In contrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim of this transcoding is to re-appropriate the movie and to re-distribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
 
 #### Methods
  I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="50%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="50%"><p align="center"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%"></p>
 
 #### Tools
 Html, css, javascript
