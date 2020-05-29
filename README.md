@@ -152,7 +152,7 @@ is being kept in a fridge, in an archive, the initial purpose of the film -which
 The tool used for the reconstruction is Adobe PremierePro
 
 #### Results
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK1.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK2.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK3.gif" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK4.gif" width="49%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK1.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK2.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK3.gif" width="49.5%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK4.gif" width="49.5%">
 
 Due to copyright right issues and the nature of the video, "Colt und Köcher" will only be accessible on the website.
 To watch the full video please visit the website in the final outcome.
