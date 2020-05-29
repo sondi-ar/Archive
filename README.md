@@ -74,7 +74,7 @@ Jeneanne Orlowski - https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?
 ### Photo and Video processes
 8 mm film is a motion picture film format in which the film strip is eight millimeters wide. It exists in two main versions — the original standard 8 mm film, also known as regular 8 mm, and Super 8. Although both standard 8 mm and Super 8 are 8 mm wide, Super 8 has a larger image area because of its smaller and more widely spaced perforations.
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video.png" width="34%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video.jpg" width="35.8%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video2.png" width="29%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video.png" width="34%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video.jpg" width="35.8%">       <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/video2.png" width="28.5%">
 
 The archive had 2 projectors available. Unfortunately The mechanism of both projectors were broken. It was not possible to watch the movie in its entiry. The only way to watch it was by moving the wheel of the projector manually frame by frame.
  <br/>
@@ -98,7 +98,7 @@ Can the label of "art" help transgress the private space and bring pornography i
 
 ### Pornography and Activism
 Pleasure and freedom as a form of protest against dominant power structures.
-The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/>
+The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/> How can Pornography be used as a tool for activism?
 
 #### Fuck For Forest
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="50%"> <br/>
