@@ -120,7 +120,7 @@ When we think of how pornography is being consumed, it's usually something that 
 An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
 
 #### La Fête du Slip
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="70%"></p> <br/>
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="70%"> <br/>
 La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
 
 #### Porn Film Festival Vienna
