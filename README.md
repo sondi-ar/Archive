@@ -181,7 +181,7 @@ This transcoding is a remapping of the festival and its timeline by a lot of inf
 In contrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim of this transcoding is to re-appropriate the movie and to re-distribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
 
 #### Methods
- I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I recreated the invitation letter as a 3D object that serves as a introduction into the website. I also researched the visual identity of the festival, from the colour pallet to the typeface and the grid, and I tried to recreate its appeal.
+ I've gathered a multitude of informations at the archive and compiled them into a website. All the informations found in the website are from Archive. I recreated the invitation letter as a 3D object that serves as a introduction into the website. I also researched the visual identity of the festival, from the colour pallet to the typeface and the grid, and I tried to recreate its appeal.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
@@ -206,7 +206,7 @@ It's a virtual Archive of the whole schedule of the festival.
 https://sondi-ar.github.io/Wet-Dream-Festival/intro.html
 
 ## Conclusion
-How can Pornography be used as a tool for Activism?  This has been the question that had sparked this whole research into pornography. During the sexual revolution of the 70s people challenged traditional codes of behaviour related to sexuality. The wet dream festival is a perfect example of the use of pornography as a tool for Activism and how pleasure and freedom can be use as a form of protest against dominant power structures. In our digital age where porn can be found in abundance, this transcoding exercise and website attempts to find new and added values to pornography beyond self-gratification. 
+How can Pornography be used as a tool for Activism?  This has been the question that had sparked this whole research into pornography. During the sexual revolution of the 70s people challenged traditional codes of behaviour related to sexuality. The wet dream festival is a perfect example of the use of pornography as a tool for Activism and how pleasure and freedom can be use as a form of protest against dominant power structures. In our digital age where porn can be found in abundance, this transcoding exercise and website attempts to find new and added values to pornography beyond self-gratification.
 ### Bibliography
 
 <a name="footnote-1">**[1]**</a>: Alina Cohen, "What’s the Line between Art and Pornography", 2018.<br/>
