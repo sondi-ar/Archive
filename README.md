@@ -31,7 +31,7 @@ The complete Bill Levy archive: "Suck". Suck was a European pornographic magazin
 | **Selected Object** | Colt und Köcher
 | **Medium** | Super 8mm film, 6min
 | **Date** | 1970
-|<img src="Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
+|<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Object.png" width="50%">| The super 8mm Film and its cover box
 
 ## Research
 <details>
