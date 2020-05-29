@@ -101,7 +101,7 @@ Pleasure and freedom as a form of protest against dominant power structures.
 Can Pornography be used as a tool for activism?
 
 #### Fuck For Forest
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="98%"></p>
 > "Porn makes really, really a lot of money, so why not use that money for good?"
 
 Fuck for Forest (FFF) is a non-profit environmental organisation founded in 2004 in Norway by Leona Johansson and Tommy Hol Ellingsen. It funds itself through a website of sexually explicit videos and photographs, charging a membership fee for access. They believe in saving the planet by videotaping themselves having sex. The concept here is that the group sells homemade porn on the internet, using the funds to buy up threatened rainforest land.It is the world's first eco-porn organisation and may be the only porn website specifically created to raise money for a cause.
@@ -185,7 +185,7 @@ In contrast to the pornography we consume on the internet, the pornography in th
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="33%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%">
 
 #### Tools
 Html, css, javascript
