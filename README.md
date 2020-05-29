@@ -104,7 +104,7 @@ Can Pornography be used as a tool for activism?
 <p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="98%"></p>
 > "Porn makes really, really a lot of money, so why not use that money for good?"
 
-Fuck for Forest (FFF) is a non-profit environmental organisation founded in 2004 in Norway by Leona Johansson and Tommy Hol Ellingsen. It funds itself through a website of sexually explicit videos and photographs, charging a membership fee for access. They believe in saving the planet by videotaping themselves having sex. The concept here is that the group sells homemade porn on the internet, using the funds to buy up threatened rainforest land.It is the world's first eco-porn organisation and may be the only porn website specifically created to raise money for a cause.
+Fuck for Forest (FFF) is a non-profit environmental organisation founded in 2004 in Norway by Leona Johansson and Tommy Hol Ellingsen. It funds itself through a website of sexually explicit videos and photographs, charging a membership fee for access. They believe in saving the planet by videotaping themselves having sex. The concept here is that the group sells homemade porn on the internet, using the funds to buy up threatened rainforest land.It is the world's first eco-porn organisation and may be the only porn website specifically created to raise money for a cause.[2]
 
 ```
 How can Pornography be used as a tool for Activism?
@@ -113,19 +113,19 @@ How can Pornography be used as a story telling device?
 ```
 
 ### Pornography in the Public Sphere
-When we think of how pornography is being consumed, it's usually something that belongs in the private sphere. In this part i'm looking at exemple in which pornography transgress the private sphere into the public sphere.
+When we think of how pornography is being consumed, it's usually something that belongs in the private sphere. In this part i'm looking at example in which pornography transgress the private sphere into the public sphere.
 
 #### Eye Museum
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="70%"> <br/>
-An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
+An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder. [3]
 
 #### La Fête du Slip
 <p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="70%"></p> <br/>
-La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
+La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.[4]
 
 #### Porn Film Festival Vienna
 <p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public3.png" width="70%"></p> <br/>
-A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
+A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined![5]
 
 ## Transcoding
 By creating different systems of transcoding, I'm hoping that each way of transcoding will question the value of the pornographic film presented either by adding or deducting value. I want to question our relation to porn and navigate between the line of the private and the public sphere.<br/>
@@ -210,4 +210,8 @@ You might have a nice conclusive observation to share at the end :)
 
 ### Bibliography
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+<a name="footnote-1">**[1]**</a>: Alina Cohen, "What’s the Line between Art and Pornography", 2018.
+<a name="footnote-1">**[2]**</a>: Michal Marczak, "Fuck For Forest", 2012.
+<a name="footnote-1">**[3]**</a>: Eye museum, https://www.eyefilm.nl/en/film/wet-dreams-festival-recap, 2015.
+<a name="footnote-1">**[4]**</a>: La Fête du Slip, https://www.lafeteduslip.ch/fr
+<a name="footnote-1">**[5]**</a>: Porn Film Festival Vienna, https://www.pornfilmfestivalvienna.at/?fbclid=IwAR24XbvMaouH-xVGFiBJj9q3VA8G5lIZU2jH-gBQpzIQCAk7KgifuhbW4fM, 2018.
