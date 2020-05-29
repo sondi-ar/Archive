@@ -134,7 +134,7 @@ By creating different systems of transcoding, I'm hoping that each way of transc
 #### Description
 Colt und Köscher is an 8mm film in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. All I have is a footage of me going trough parts of the video frame by frame.Without any access to the archive, I need to find a way to utilise the footage that I have and make some reconstruction of the film
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%">
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%"></p>
 
 #### Aim
 The aim of the reconstruction is to understand and see the material in its "original form" and to redistribute it to the public. When a pornographic film
