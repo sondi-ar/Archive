@@ -194,11 +194,9 @@ Html, css, javascript & blender.
 
 #### Results
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome3.png" width="33%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome 3.png" width="33%">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome4.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome5.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome6.png" width="33%">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome7.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome8.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome9.png" width="33%">
-
-## Reflection
 
 ## Outcomes
 I created a website that serves as a  map of The Wet Dream Film Festival from 1970.
