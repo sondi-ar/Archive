@@ -182,10 +182,11 @@ In contrast to the pornography we consume on the internet, the pornography in th
 
 #### Methods
  I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%"></p>
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%">
+</p>
 
 #### Tools
 Html, css, javascript
