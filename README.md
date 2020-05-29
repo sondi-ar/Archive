@@ -87,8 +87,8 @@ we speak of consuming pornography and of appreciating art which indicates that t
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="30%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="31.8%">
 
-Andrea Fraser, Untitled (2003): The artist is seen having sex with an unidentified American collector. <br/>
-Skin, 2009: Two figures in nude bodysuits start making out, cutting away parts of their costumes as they grow more aroused. “Art meets Porn” -shown in Museum
+On the left we see the work of Andrea Fraser "Untitled, 2003". The artist is seen having sex with an unidentified American collector. <br/>
+On the right we can see "Skin, 2009", a film showing two figures in nude bodysuits starting to make out. The figures slowly start to cut away parts of their costumes as they grow more aroused. Those are two examples of “Art meets Porn” shown in Museums.
 
 ```
 How can we define the line between art & pornography?
