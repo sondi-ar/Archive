@@ -161,7 +161,7 @@ To watch the full video please visit the website in the final outcome.
 #### Description
 The informations I have found on the movie suggest that the original film was in colour, but through the effect of time the colours have faded. This transcript is an attempt at recolouring the film.
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour.png" width="30%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour1.jpg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour2.jpg" width="33%">
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour.png" width="30%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour1.jpg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/recolour2.jpg" width="33%"></p>
 
 #### Aim
 The aim of this transcoding is once again to be able to view the movie in its "original" form and to have a feeling of how it might have look in the beginning.
@@ -185,7 +185,7 @@ In contrast to the pornography we consume on the internet, the pornography in th
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="49%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website1.png" width="50%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website2.png" width="50%"><p align="center"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/website3.png" width="98%"></p>
 
 #### Tools
 Html, css, javascript
