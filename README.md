@@ -85,7 +85,7 @@ The archive had 2 projectors available. Unfortunately The mechanism of both proj
 #### Andrea Frase "Untitled" & Skin, 2009
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive.[1]
 
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="47.5%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="49%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="47.5%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="50%"></p>
 
 On the left we see the work of Andrea Fraser "Untitled, 2003". The artist is seen having sex with an unidentified American collector. <br/>
 On the right we can see "Skin, 2009", a film showing two figures in nude bodysuits starting to make out. The figures slowly start to cut away parts of their costumes as they grow more aroused. Those are two examples of “Art meets Porn” shown in Museums.
