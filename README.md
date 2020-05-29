@@ -206,7 +206,8 @@ It's a virtual Archive of the whole schedule of the festival.
 https://sondi-ar.github.io/Wet-Dream-Festival/intro.html
 
 ## Conclusion
-How can Pornography be used as a tool for Activism?  This has been the question that had sparked this whole research into pornography. During the sexual revolution of the 70s people challenged traditional codes of behaviour related to sexuality. The wet dream festival is a perfect example of the use of pornography as a tool for Activism and how pleasure and freedom can be use as a form of protest against dominant power structures. In our digital age where porn can be found in abundance, this transcoding exercise and website attempts to find new and added values to pornography beyond self-gratification.
+How can Pornography be used as a tool for Activism?  This has been the question that sparked this whole research into pornography. During the sexual revolution of the 70s people fought to challenge traditional codes of behaviour related to sexuality. The wet dream festival is a perfect example of the use of pornography as a tool for Activism and showcases how pleasure and freedom can be use as a form of protest against dominant power structures. In our digital age where porn can be found in abundance, this transcoding exercise and website attempts to question our relation to porn and to explore the goal of pornography beyond self-gratification.
+
 ### Bibliography
 
 <a name="footnote-1">**[1]**</a>: Alina Cohen, "What’s the Line between Art and Pornography", 2018.<br/>
