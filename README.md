@@ -132,13 +132,13 @@ By creating different systems of transcoding, I'm hoping that each way of transc
 
 ### Reconstructing the Film
 #### Description
-Colt und Köscher is an 8mm in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. All i have is a footage of me going trough parts of the video frame by frame.
-Without any access to the archive, how can I utilise the footage that I have and make some reconstruction.
+Colt und Köscher is an 8mm film in really bad condition. The movie is cut at many places and only holds with some old transparent tape. While watching it the movie started to rip apart. It might not be possible to watch it on a projector due to that. All I have is a footage of me going trough parts of the video frame by frame.Without any access to the archive, I need to find a way to utilise the footage that I have and make some reconstruction of the film
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/reconstruct1.png" width="33%"> <img src="Documentation/img/video5.png" width="33%">
 
 #### Aim
-The aim of the reconstruction is to understand and see the material in its "original form" and to redistribute it to the public.
+The aim of the reconstruction is to understand and see the material in its "original form" and to redistribute it to the public. When a pornographic film
+is being kept in a fridge, in an archive, the initial purpose of the film -which in my opinion is to be consumed for arousal- is being lost.
 
 #### Methods
 - Turn a sequence into individual frames
@@ -154,7 +154,7 @@ The tool used for the reconstruction is Adobe PremierePro
 #### Results
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK1.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK2.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK3.gif" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/CuK4.gif" width="33%">
 
--full video link to follow
+Due to copyright right issues and the nature of the video, the film will only be accessible on the website. To watch the full video please visit the website in the final outcome.
 
 ### Recolouring
 #### Description
