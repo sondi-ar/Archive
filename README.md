@@ -182,7 +182,7 @@ In contrast to the pornography we consume on the internet, the pornography in th
 
 #### Methods
  I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I recreated the invitation letter as a 3D object that serves as a introduction into the website. I also researched the visual identity of the festival, from the colour pallet to the typeface and the grid, and I tried to recreate its appeal.
- 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
@@ -190,20 +190,22 @@ In contrast to the pornography we consume on the internet, the pornography in th
 </p>
 
 #### Tools
-Html, css, javascript
+Html, css, javascript & blender.
 
 #### Results
 
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/final3.png" width="33%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome1.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome2.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome3.png" width="33%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome4.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome5.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome6.png" width="33%">
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome7.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome8.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome9.png" width="33%">
 
 ## Reflection
 
 ## Outcomes
 I created a website that serves as a  map of The Wet Dream Film Festival from 1970.
-A virtual Archive of the whole schedule of the festival.
+It's a virtual Archive of the whole schedule of the festival.
 
 #### Outcome Links
-website Link
+https://sondi-ar.github.io/Wet-Dream-Festival/intro.html
 
 ## Conclusion
 You might have a nice conclusive observation to share at the end :)
