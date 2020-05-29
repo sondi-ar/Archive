@@ -116,15 +116,15 @@ How can Pornography be used as a story telling device?
 When we think of how pornography is being consumed, it's usually something that belongs in the private sphere. In this part i'm looking at exemple in which pornography transgress the private sphere into the public sphere.
 
 #### Eye Museum
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="40%"> <br/>
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="100%"> <br/>
 An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
 
 #### La Fête du Slip
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="45%"> <br/>
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="100%"> <br/>
 La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
 
 #### Porn Film Festival Vienna
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public3.png" width="40%"> <br/>
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public3.png" width="100%"> <br/>
 A showcase and celebrate of the colourful diversity of porn. The goal of this festival is to stimulate an open, societal debate. Its mission is to bring a genre back into the public sphere of the cinema that is usually locked away in private quarters. Its prime directive is to present the creativity and political possibilities of a defining (yet always hidden) part of society. The goal is to challenge prejudices and stereotypes. The festival offers a film and theory program that breaks the monotony boring cheesy mainstream porn – to proudly presents feminist, queer & LGBTIQ* positions. The Porn Film Festival Vienna wants to create an open and welcoming space for reception, discussion, and reflection and to challenge and broaden horizons. Because porn can be: lustful, honest, friendly and self-determined!
 
 ## Transcoding
