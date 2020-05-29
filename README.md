@@ -85,7 +85,7 @@ The archive had 2 projectors available. Unfortunately The mechanism of both proj
 #### Andrea Frase "Untitled" & Skin, 2009
 we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive.[1]
 
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="30%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="31.8%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="50%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="50%"></p>
 
 On the left we see the work of Andrea Fraser "Untitled, 2003". The artist is seen having sex with an unidentified American collector. <br/>
 On the right we can see "Skin, 2009", a film showing two figures in nude bodysuits starting to make out. The figures slowly start to cut away parts of their costumes as they grow more aroused. Those are two examples of “Art meets Porn” shown in Museums.
@@ -101,7 +101,7 @@ Pleasure and freedom as a form of protest against dominant power structures.
 Can Pornography be used as a tool for activism?
 
 #### Fuck For Forest
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="60%"></p> <br/>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="100%"></p> <br/>
 >"Porn makes really, really a lot of money, so why not use that money for good?"
 
 Fuck for Forest (FFF) is a non-profit environmental organisation founded in 2004 in Norway by Leona Johansson and Tommy Hol Ellingsen. It funds itself through a website of sexually explicit videos and photographs, charging a membership fee for access. They believe in saving the planet by videotaping themselves having sex. The concept here is that the group sells homemade porn on the internet, using the funds to buy up threatened rainforest land.It is the world's first eco-porn organisation and may be the only porn website specifically created to raise money for a cause.
