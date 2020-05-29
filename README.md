@@ -83,7 +83,7 @@ The archive had 2 projectors available. Unfortunately The mechanism of both proj
 
 ### Pornography and Art
 #### Andrea Frase "Untitled" & Skin, 2009
-we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive. [1]
+we speak of consuming pornography and of appreciating art which indicates that there is a fundamental difference in how we are meant to engage with both kinds of representation, but the two approaches are not mutually exclusive.[1]
 
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art1.png" width="30%">   <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/Art2.png" width="31.8%">
 
@@ -98,10 +98,10 @@ Can the label of "art" help transgress the private space and bring pornography i
 
 ### Pornography and Activism
 Pleasure and freedom as a form of protest against dominant power structures.
-The digital age has banalised sexuality and therefore affected our representations. We are both the witnesses and the actors of a moving culture where sexuality evolves too, increasingly leading to hypersexualised societies where sexual contents are at our fingertips. Sex is marketable and sexual content usually only reinforce the status quo. [2] <br/> How can Pornography be used as a tool for activism?
+Can Pornography be used as a tool for activism?
 
 #### Fuck For Forest
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="50%"> <br/>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/activism.png" width="50%"></p> <br/>
 >"Porn makes really, really a lot of money, so why not use that money for good?"
 
 Fuck for Forest (FFF) is a non-profit environmental organisation founded in 2004 in Norway by Leona Johansson and Tommy Hol Ellingsen. It funds itself through a website of sexually explicit videos and photographs, charging a membership fee for access. They believe in saving the planet by videotaping themselves having sex. The concept here is that the group sells homemade porn on the internet, using the funds to buy up threatened rainforest land.It is the world's first eco-porn organisation and may be the only porn website specifically created to raise money for a cause.
@@ -113,6 +113,7 @@ How can Pornography be used as a story telling device?
 ```
 
 ### Pornography in the Public Sphere
+When we think of how pornography is being consumed, it's usually something that belongs in the private sphere. In this part i'm looking at exemple in which pornography transgress the private sphere into the public sphere.
 
 #### Eye Museum
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="40%"> <br/>
