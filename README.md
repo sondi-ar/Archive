@@ -116,11 +116,11 @@ How can Pornography be used as a story telling device?
 When we think of how pornography is being consumed, it's usually something that belongs in the private sphere. In this part i'm looking at exemple in which pornography transgress the private sphere into the public sphere.
 
 #### Eye Museum
-<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="70%"></p> <br/>
+<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public.png" width="70%"> <br/>
 An Event that took place in 2015 at the eye museum in Amsterdam. It was a recapitulation of the Wet Dreams Film Festival, 1970/1971 in Amsterdam, by one of its founders: artist and story teller Willem de Ridder.
 
 #### La Fête du Slip
-<img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="70%"> <br/>
+<p align="center"><img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/public2.png" width="70%"></p> <br/>
 La Fête du Slip is an annual alternative-porn film festival held in Lausanne, Switzerland. It is Romandy's first and biggest multidisciplinary festival whose sole purpose is to focus on body, gender, and sexuality in art.
 
 #### Porn Film Festival Vienna
