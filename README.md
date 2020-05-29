@@ -181,7 +181,8 @@ This transcoding is a remapping of the festival and its timeline by a lot of inf
 In contrast to the pornography we consume on the internet, the pornography in the archive can only be viewed by request and with the right equipments that are not always available. Here a movie that has been made to be consumed for arousal purposes is being locked in a fridge. The aim of this transcoding is to re-appropriate the movie and to re-distribute it to the public along side the dialogue and criticism it tried to explore. To achieve this I created to website that serves as an Archive and map for The Wet Dream Film Festival of 1970.
 
 #### Methods
- I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I also researched the visual identity of the festival to recreate its appeal.
+ I've gathered a multitude of informations from at the archive and compiled them into a website. All the informations found in the website are from Archive. I recreated the invitation letter as a 3D object that serves as a introduction into the website. I also researched the visual identity of the festival, from the colour pallet to the typeface and the grid, and I tried to recreate its appeal.
+ 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation1.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation2.jpeg" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/invitation3.jpeg" width="33%">
 
