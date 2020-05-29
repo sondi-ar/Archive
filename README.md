@@ -210,8 +210,8 @@ You might have a nice conclusive observation to share at the end :)
 
 ### Bibliography
 
-<a name="footnote-1">**[1]**</a>: Alina Cohen, "What’s the Line between Art and Pornography", 2018.
-<a name="footnote-1">**[2]**</a>: Michal Marczak, "Fuck For Forest", 2012.
-<a name="footnote-1">**[3]**</a>: Eye museum, https://www.eyefilm.nl/en/film/wet-dreams-festival-recap, 2015.
-<a name="footnote-1">**[4]**</a>: La Fête du Slip, https://www.lafeteduslip.ch/fr
-<a name="footnote-1">**[5]**</a>: Porn Film Festival Vienna, https://www.pornfilmfestivalvienna.at/?fbclid=IwAR24XbvMaouH-xVGFiBJj9q3VA8G5lIZU2jH-gBQpzIQCAk7KgifuhbW4fM, 2018.
+<a name="footnote-1">**[1]**</a>: Alina Cohen, "What’s the Line between Art and Pornography", 2018.<br/>
+<a name="footnote-1">**[2]**</a>: Michal Marczak, "Fuck For Forest", 2012.<br/>
+<a name="footnote-1">**[3]**</a>: Eye museum, https://www.eyefilm.nl/en/film/wet-dreams-festival-recap, 2015.<br/>
+<a name="footnote-1">**[4]**</a>: La Fête du Slip, https://www.lafeteduslip.ch/fr<br/>
+<a name="footnote-1">**[5]**</a>: Porn Film Festival Vienna, https://www.pornfilmfestivalvienna.at/?fbclid=IwAR24XbvMaouH-xVGFiBJj9q3VA8G5lIZU2jH-gBQpzIQCAk7KgifuhbW4fM, 2018.<br/>
