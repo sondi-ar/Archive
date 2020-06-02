@@ -198,11 +198,11 @@ Html, css, javascript & blender.
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome4.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome5.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome6.png" width="33%">
 <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome7.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome8.png" width="33%"> <img src="https://raw.githubusercontent.com/sondi-ar/Archive/master/Documentation/img/outcome9.png" width="33%">
 
-## Outcomes
+## Outcome
 I created a website that serves as a  map of The Wet Dream Film Festival from 1970.
 It's a virtual Archive of the whole schedule of the festival.
 
-#### Outcome Links
+#### Outcome Link
 https://sondi-ar.github.io/Wet-Dream-Festival/intro.html
 
 ## Conclusion
